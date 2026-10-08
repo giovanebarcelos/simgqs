@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "target/classes",
+    "java.project.referencedLibraries": [
+        "../1-JUnit/target/classes"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.saveActions.organizeImports": true
+}
