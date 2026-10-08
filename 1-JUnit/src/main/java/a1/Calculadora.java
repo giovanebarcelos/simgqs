@@ -1,6 +1,18 @@
 package a1;
 
 public class Calculadora {
+    public int a;
+    public int b;    
+
+    public void setA(int a) {
+        this.a = a;
+    }
+    public void setB(int b) {
+        this.b = b;
+    }
+    public int somar() {
+        return a + b;
+    }
     public int somar(int a, int b) {
         return a + b;
     }
